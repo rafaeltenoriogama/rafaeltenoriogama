@@ -1,8 +1,10 @@
 <img src="img/tux.png" min-width="400px" max-width="400px" width="120px" align="right">
 
-<p align="left"> 
-
+<p align="left">
 <strong>Olá! Sou Rafael Tenorio </strong>
+</p>
+
+<p align="left"> 
   Trabalho como desenvolvedor, analista e administrador de redes/servidores em uma empresa nacional do Brasil.
 
 </p>
