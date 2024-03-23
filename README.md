@@ -1,5 +1,7 @@
-<img src="img/tux.gif" min-width="400px" max-width="400px" width="120px" align="right">
+<img src="img/tux.png" min-width="400px" max-width="400px" width="120px" align="right">
 
+
+## Olá, sou Rafael Tenorio
 <p align="left"> 
   Atuando como desenvolvedor, analista e administrador de redes/servidores na Ambiental Transportes Urbanos S/A.
 
