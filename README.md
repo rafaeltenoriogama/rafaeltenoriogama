@@ -18,7 +18,7 @@
 </p>
 
 <p align="left"> 
-&#128187 Administração de Sistemas: VMWare, Windows Server e Ubuntu Server.
+&#128187 Administração de Sistemas: VMWare, Windows Server, Ubuntu Server.
 </p>
 
 <p align="left">
