@@ -1,12 +1,10 @@
 <img src="img/tux.png" min-width="400px" max-width="400px" width="120px" align="right">
 
-
-## Olá, sou Rafael Tenorio
 <p align="left"> 
-  Atuando como desenvolvedor, analista e administrador de redes/servidores na Ambiental Transportes Urbanos S/A.
 
-Atuar como desenvolvedor é administrar uma forma através das linguagens de programação, onde é possível desenvolver formulários, interfaces e gerir o uso desses dados de forma que auxiliem a equipe.
-O uso não se limita somente nessas linguagens, mas eis exemplos das que utilizo no dia-a-dia: PHP, MySQL, HTML e CSS.
+<strong>Olá! Sou Rafael Tenorio </strong>
+  Trabalho como desenvolvedor, analista e administrador de redes/servidores em uma empresa nacional do Brasil.
+
 </p>
 
 <p align="left">
@@ -14,7 +12,11 @@ O uso não se limita somente nessas linguagens, mas eis exemplos das que utilizo
 </p>
 
 <p align="left">
-  💼 Banco de dados: MysQL, MariaDB, MongoDB
+  💼 Banco de dados: MysQL, MariaDB, MongoDB.
+</p>
+
+<p align="left"> 
+&#128187 Administração de Sistemas: VMWare.
 </p>
 
 <p align="left">
