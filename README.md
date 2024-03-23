@@ -1,18 +1,27 @@
-### Hi there 👋
+<img src="img/tux.gif" min-width="400px" max-width="400px" width="120px" align="right">
 
+<p align="left"> 
+  Atuando como desenvolvedor, analista e administrador de redes/servidores na Ambiental Transportes Urbanos S/A.
 
+Atuar como desenvolvedor é administrar uma forma através das linguagens de programação, onde é possível desenvolver formulários, interfaces e gerir o uso desses dados de forma que auxiliem a equipe.
+O uso não se limita somente nessas linguagens, mas eis exemplos das que utilizo no dia-a-dia: PHP, MySQL, HTML e CSS.
+</p>
 
-- 🔭 I’m currently working as a SysAdmin and Developer at a company in SP, Brazil. 
+<p align="left">
+  🦄 Linguagens: Python, Java, JS, HTML, CSS.
+</p>
 
-- 🌱 I’m currently learning Python, Java, JS, HTML, CSS, MongoDB and the list is going on and on... all depends on the project. 
-The important thing is being capable of reading the language documentation, making tests and seeing what is faster, cleaner, good AND something that the team can work together.
+<p align="left">
+  💼 Banco de dados: MysQL, MariaDB, MongoDB
+</p>
 
-- 📫 How to reach me: ...
+<p align="left">
+  💌 Você pode me encontrar através dos links abaixo: ⤵️
+</p>
 
-<!--- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... 
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="#" title="E-mail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:rafael_tenoriox2@hotmail.com" alt="E-mail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeltenoriogama" alt="LinkedIn"/></a>
+</p>
