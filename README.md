@@ -13,11 +13,11 @@
 </p>
 
 <p align="left">
-  💼 Banco de dados: MysQL, MariaDB, MongoDB.
+  💼 <strong>Banco de dados:</strong> MysQL, MariaDB, MongoDB.
 </p>
 
 <p align="left"> 
-&#128187 Administração de Sistemas: VMWare, Windows Server, Ubuntu Server.
+&#128187 <strong>Administração de Sistemas:</strong> VMWare, Windows Server, Ubuntu Server.
 </p>
 
 <p align="left">
