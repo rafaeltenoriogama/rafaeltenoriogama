@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: Python, Java, JS, HTML, CSS.
+  🦄 <strong>Linguagens</strong>: Python, Java, JS, HTML, CSS.
 </p>
 
 <p align="left">
