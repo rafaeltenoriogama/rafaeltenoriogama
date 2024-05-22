@@ -1,26 +1,40 @@
+## Hello! My name is Rafael Tenorio
+
+I'm a technology professional with diverse experience in Customer Experience and Network Infrastructure.
+
+### Professional Experience
+
+#### Mercado Livre (2021)
+
+Worked in the Customer Experience department in the financial sector. My responsibilities included handling financial fraud, suspicious purchases, account risk analysis, and processing refunds.
+
+#### Claro Brasil S/A (2022)
+
+Performed a variety of roles, from support in Windows Active Directory and Linux Desktop environments to assembling and installing customized Windows operating systems according to Claro's requirements.
+
+#### Ambiental Transportes Urbanos S/A (Since december/2022)
+
+Currently, I am part of the Ambiental Transportes Urbanos S/A team, where I work in the network infrastructure area. I use various technologies, including VMWare, ProxMox, Windows Server 2022, Windows Server 2019, Windows Server 2008, Kafka, Python, PHP, MySQL, MariaDB, OracleDB and Linux Desktops in general.
+
+---
+
 <p align="left">
-<strong>Olá! Sou Rafael Tenorio! </strong>
+  🦄 <strong>Languages:</strong>: Python, Java, JS, HTML, CSS.
 </p>
 
-<p align="left"> 
-  Trabalho como desenvolvedor, analista e administrador de redes/servidores em uma empresa nacional do Brasil.
-</p>
-
 <p align="left">
-  🦄 <strong>Linguagens</strong>: Python, Java, JS, HTML, CSS.
-</p>
-
-<p align="left">
-  💼 <strong>Banco de dados:</strong> MysQL, MariaDB, MongoDB.
+  💼 <strong>Databases:</strong> MysQL, MariaDB, MongoDB, OracleDB.
 </p>
 
 <img src="img/tux.gif" min-width="400px" max-width="400px" width="120px" align="right">
 <p align="left"> 
-&#128187 <strong>Administração de Sistemas:</strong> VMWare, Windows Server, Ubuntu Server.
+&#128187 <strong>Servers tools:</strong> VMWare, Windows Server, Ubuntu Server.
 </p>
 
+#### Feel free to discuss any project or job offer you want to share!
+
 <p align="left">
-  💌 Você pode me encontrar através dos links abaixo: ⤵️
+  💌 Some contact links:
 </p>
 
 <p align="left">
