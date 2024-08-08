@@ -24,13 +24,13 @@
 
 - ☁️ I've been interested in event-driven architecture. So,I'm learning **Apache Kafka**
 
-- 📝 I regularly write some texts on a Study Blog in Tumblr [Study Blog in Tumblr](https://heart-ghost-studyblr.tumblr.com/)
+- 📝 I regularly write some texts on a [Study Blog Routine](https://1010nishant.hashnode.dev/) in Tumblr
 
 - 💬 Ask me about **Virtualization, VMWare, ProxMox, VM Backup, Kafka Streams, Linux/Windows Server**
 
 - 📫 Feel free to reach me out **rafael_tenoriox2@hotmail.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on Linkedin –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+- 🏠 Don't hesitate to drop me a **👋** on Linkedin –  [Rafael Tenorio Gama](https://discordapp.com/users/957722095381540874) my username!
 <!--Intro end-->
 
 <!--h1 without bottom border-->
