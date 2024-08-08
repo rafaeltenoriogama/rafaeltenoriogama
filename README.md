@@ -1,47 +1,69 @@
-## Hello! My name is Rafael Tenorio
 
-I'm a technology professional with diverse experience in Customer Experience and Network Infrastructure.
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Professional Experience
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello 👋, I'm Rafael Tenorio</h1></summary>
+  </ul>
+</div>
 
-#### Mercado Livre (2021)
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+  </ul>
+</div>
 
-Worked in the Customer Experience department in the financial sector. My responsibilities included handling financial fraud, suspicious purchases, account risk analysis, and processing refunds.
 
-#### Claro Brasil S/A (2022)
+<!--Intro start-->
+- 🔭 I’m currently working on **Java, MySQL/MariaDB, VMWare, Windows Server and Infrastructure Network on a company in São Paulo, Brazil**
 
-Performed a variety of roles, from support in Windows Active Directory and Linux Desktop environments to assembling and installing customized Windows operating systems according to Claro's requirements.
+- 🌱 I’m currently learning **Microsservices, Distributed/Monolith systems concept and Build scalable stream processing systems .**
 
-#### Ambiental Transportes Urbanos S/A (Since december/2022)
+- ☁️ I've been interested in event-driven architecture. So,I'm learning **Apache Kafka**
 
-Currently, I am part of the Ambiental Transportes Urbanos S/A team, where I work in the network infrastructure area. I use various technologies, including VMWare, ProxMox, Windows Server 2022, Windows Server 2019, Windows Server 2008, Kafka, Python, PHP, MySQL, MariaDB, OracleDB and Linux Desktops in general.
+- 📝 I regularly write some texts on a [Study Blog Routine](https://heart-ghost-studyblr.tumblr.com/) in Tumblr
 
----
+- 💬 Ask me about **Virtualization, VMWare, ProxMox, VM Backup, Kafka Streams, Linux/Windows Server**
 
-<p align="left">
-  🦄 <strong>Languages:</strong>: Python, Java, JS, HTML, CSS.
+- 📫 Feel free to reach me out **rafael_tenoriox2@hotmail.com**
+
+- 🏠 Don't hesitate to drop me a **👋** on Linkedin –  [Rafael Tenorio Gama](https://www.linkedin.com/in/rafaeltenoriogama/) my username!
+<!--Intro end-->
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,discord,docker,postgres,github,html,css,java,linux,nginx,mongodb,mysql,kafka,postman,py,tailwind,vim,vscode,php,ubuntu,windows&perline=14" />
+  </a>
 </p>
 
-<p align="left">
-  💼 <strong>Databases:</strong> MysQL, MariaDB, MongoDB, OracleDB.
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/rafaeltenoriogama" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://heart-ghost-studyblr.tumblr.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
+<a href="https://discord.com/invite/keHYsY9P" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+  
 </p>
 
-<img src="img/tux.gif" min-width="400px" max-width="400px" width="120px" align="right">
-<p align="left"> 
-&#128187 <strong>Servers tools:</strong> VMWare, Windows Server, Ubuntu Server.
-</p>
+<br>
+<i>To break the ice, some random dev joke for you!</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
-#### Feel free to discuss any project or job offer you want to share!
-
-<p align="left">
-  💌 Some contact links:
-</p>
-
-<p align="left">
-  <a href="mailto:rafael_tenoriox2@hotmail.com" title="E-mail">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="E-mail"/></a>
-  <a href="https://www.linkedin.com/in/rafaeltenoriogama" title="LinkedIn">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <!-- <a href="https://github.com/rafaeltenoriogama" title="GitHub">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> -->
-</p>
