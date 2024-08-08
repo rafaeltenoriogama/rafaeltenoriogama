@@ -64,12 +64,14 @@
 </p>
 
 <br>
+<i>To break the ice, some random dev joke for you!</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+<img src="img/tux.gif" min-width="400px" max-width="400px" width="120px" align="left">
 
 <div style="display: flex; align-items: center;">
-  <img src="img/tux.gif" style="min-width: 120px; max-width: 100px; width: 60px; margin-right: 20px;" align="left">
+  <img src="img/tux.gif" style="min-width: 400px; max-width: 400px; width: 120px; margin-right: 20px;" align="left">
   <div style="text-align: center; flex-grow: 1;">
     <i>To break the ice, some random dev joke for you!</i><br>
     <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-    <img src="img/tux.gif" style="min-width: 120px; max-width: 100px; width: 60px; margin-right: 20px;" align="right">
   </div>
 </div>
