@@ -24,7 +24,7 @@
 
 - ☁️ I've been interested in event-driven architecture. So,I'm learning **Apache Kafka**
 
-- 📝 I regularly write some texts on a [Study Blog Routine](https://heart-ghost-studyblr.tumblr.com/) in Tumblr
+- 📝 I regularly write some texts on a **[Study Blog Routine](https://heart-ghost-studyblr.tumblr.com/)** in Tumblr
 
 - 💬 Ask me about **Virtualization, VMWare, ProxMox, VM Backup, Kafka Streams, Linux/Windows Server**
 
