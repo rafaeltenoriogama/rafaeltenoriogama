@@ -12,7 +12,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h4 style="display: inline-block">“Tell me and I forget. Teach me and I remember. Involve me, and I learn.” – Benjamin Franklin</h4></summary>
+    <summary><h2 style="display: inline-block">“Tell me and I forget. Teach me and I remember. Involve me, and I learn.” – Benjamin Franklin</h2></summary>
   </ul>
 </div>
 
