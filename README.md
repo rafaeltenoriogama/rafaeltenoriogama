@@ -1,4 +1,3 @@
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -16,8 +15,8 @@
   </ul>
 </div>
 
-
 <!--Intro start-->
+
 - 🔭 I’m currently working on **Java, MySQL/MariaDB, VMWare, Windows Server and Infrastructure Network on a company in São Paulo, Brazil**
 
 - 🌱 I’m currently learning **Microsservices, Distributed/Monolith systems concept and Build scalable stream processing systems .**
@@ -28,9 +27,9 @@
 
 - 💬 Ask me about **Virtualization, VMWare, ProxMox, VM Backup, Kafka Streams, Linux/Windows Server**
 
-- 📫 Feel free to reach me out **rafael_tenoriox2@hotmail.com**
+- 📫 Feel free to reach me out **<rafael_tenoriox2@hotmail.com>**
 
-- 🏠 Don't hesitate to drop me a **👋** on Linkedin –  [Rafael Tenorio Gama](https://www.linkedin.com/in/rafaeltenoriogama/) my username!
+- 🏠 Don't hesitate to drop me a **👋** on Linkedin – [Rafael Tenorio Gama](https://www.linkedin.com/in/rafaeltenoriogama/) my username!
 <!--Intro end-->
 
 <!--h1 without bottom border-->
@@ -46,12 +45,11 @@
   </a>
 </p>
 
-
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
   </ul>
 </div>
 
