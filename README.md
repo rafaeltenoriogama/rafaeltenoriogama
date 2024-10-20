@@ -16,17 +16,15 @@
 
 <!--Intro start-->
 
-- 🔭 I’m currently working on **Java, MySQL/MariaDB, VMWare, Windows Server and Infrastructure Network on a company in São Paulo, Brazil**
+- 🔭 I’m currently working on **Event-driven architectures with Apache Kafka on a company in Porto, Portugal**
 
 - 🌱 I’m currently learning **Microsservices, Distributed/Monolith systems concept and Build scalable stream processing systems .**
 
-- ☁️ I've been interested in event-driven architecture. So,I'm learning **Apache Kafka**
+- ☁️ I've been interested in event-driven architecture. So, I'm focus on mastering **Apache Kafka**
 
 - 📝 I regularly write some texts on a **[Study Blog Routine](https://heart-ghost-studyblr.tumblr.com/)** in Tumblr
 
 - 💬 Ask me about **Virtualization, VMWare, ProxMox, VM Backup, Kafka Streams, Linux/Windows Server**
-
-- 📫 Feel free to reach me out **<rafael_tenoriox2@hotmail.com>**
 
 - 🏠 Don't hesitate to drop me a **👋** on Linkedin – [Rafael Tenorio Gama](https://www.linkedin.com/in/rafaeltenoriogama/) my username!
 <!--Intro end-->
