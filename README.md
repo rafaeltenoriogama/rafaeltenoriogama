@@ -26,7 +26,7 @@
 
 - 💬 Ask me about **Virtualization, VMWare, ProxMox, VM Backup, Kafka Streams, Linux/Windows Server**
 
-- 🏠 Don't hesitate to drop me a **👋** on Linkedin – [Rafael Tenorio Gama](https://www.linkedin.com/in/rafaeltenoriogama/) my username!
+- 🏠 Don't hesitate to drop me a **👋** on Linkedin – [by clicking here!](https://www.linkedin.com/in/rafaeltenoriogama/)
 <!--Intro end-->
 
 <!--h1 without bottom border-->
