@@ -1,71 +1,37 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Início da seção "Formação" -->
+<h2>🎓 Formação: </h2>
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello 👋, I'm Rafael Tenorio</h1></summary>
-  </ul>
-</div>
+<a href="https://ada.tech/"><img align="left" height="94px" width="94px" alt="ADATech" src="https://ada-site-frontend.s3.sa-east-1.amazonaws.com/favicon.png"/></a>
+<b>Formação em Data Science | Santander Coders</b><br>
+<b>ADA Tech</b> • Certificado Profissional<br>
+Linguagens & Tecnologias: <code>Python</code>, <code>SQL</code>, <code>Machine Learning</code>, <code>IA</code><br>
+Projetos em destaque:<br><br>
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h3 style="display: inline-block">“Tell me and I forget. Teach me and I remember. Involve me, and I learn.” – Benjamin Franklin</h3></summary>
-  </ul>
-</div>
+<img align="left" height="94px" width="94px" alt="Google" src="https://www.salesforceben.com/wp-content/uploads/2021/03/google-logo-icon-PNG-Transparent-Background-2048x2048.png"/>
+<b>Formação em Análise de Dados</b><br>
+<b>Google</b> • Certificado Profissional<br>
+Linguagens & Tecnologias: <code>Excel</code>, <code>SQL</code>, <code>Tableau</code>, <code>R</code> <br>
+Projetos em destaque: <a href="https://www.linkedin.com/feed/update/urn:li:activity:7084604567148998656/">Perfomance Financeira</a>, <a href="https://www.linkedin.com/feed/update/urn:li:activity:7086740929067253760/">Perfomance de Vendas</a><br><br>
 
-<!--Intro start-->
+<a href="https://ada.tech/"><img align="left" height="94px" width="94px" alt="ADATech" src="https://ada-site-frontend.s3.sa-east-1.amazonaws.com/favicon.png"/></a>
+<b>Formação em Desenvolvimento WEB Front End</b><br>
+<b>ADA Tech</b> • Certificado Profissional<br>
+Linguagens & Tecnologias: <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>React</code><br>
+Projetos em destaque: <a href="https://portfolio-niwanbernardo.vercel.app/">Portfolio</a><br><br>
 
-- 🔭 I’m currently working on **Java, MySQL/MariaDB, VMWare, Windows Server and Infrastructure Network on a company in São Paulo, Brazil**
-
-- 🌱 I’m currently learning **Microsservices, Distributed/Monolith systems concept and Build scalable stream processing systems .**
-
-- ☁️ I've been interested in event-driven architecture. So,I'm learning **Apache Kafka**
-
-- 📝 I regularly write some texts on a **[Study Blog Routine](https://heart-ghost-studyblr.tumblr.com/)** in Tumblr
-
-- 💬 Ask me about **Virtualization, VMWare, ProxMox, VM Backup, Kafka Streams, Linux/Windows Server**
-
-- 📫 Feel free to reach me out **<rafael_tenoriox2@hotmail.com>**
-
-- 🏠 Don't hesitate to drop me a **👋** on Linkedin – [Rafael Tenorio Gama](https://www.linkedin.com/in/rafaeltenoriogama/) my username!
-<!--Intro end-->
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,discord,docker,postgres,github,html,css,java,linux,nginx,mongodb,mysql,kafka,postman,py,tailwind,vim,vscode,php,ubuntu,windows&perline=14" />
-  </a>
-</p>
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/rafaeltenoriogama" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://heart-ghost-studyblr.tumblr.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-<a href="https://discord.com/invite/keHYsY9P" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
-</p>
+<img align="left" height="94px" width="94px" alt="Fatec" src="https://th.bing.com/th/id/R.85d3a7a9d7ff00c632dac8f61d328aa0?rik=OwtGF04280yoEw&riu=http%3a%2f%2fwww.big1news.com.br%2fwp-content%2fuploads%2f2013%2f10%2ffatec-logo.jpg&ehk=8h2n2aS%2bSdawg9WDiAqe6e9GnYRSzGI6F0O5VjiFHrs%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1"/>
+<b>Análise e Desenvolvimento de Sistemas</b><br>
+<b>FATEC-SP</b> • Curso Superior de Tecnologia (CST)<br>
+Linguagens & Tecnologias: <code>Front-End</code>, <code>Back-End</code>, <code>Dados</code>, <code>Mobile</code>, <code>IA</code><br>
+Projetos em destaque: <br><br>
+<p>📱 Por gentileza, para informações mais detalhadas sobre experiência profissional, formação, bootcamps e certificações, encontre-me no <a href="https://www.linkedin.com/in/niwanbatista/" target="_blank">LinkedIn</a>.</p>
+<!-- Fim da seção "Formação" -->
 
 <br>
-<div style="display: flex; align-items: center;">
-  <img src="img/tux.gif" style="min-width: 400px; max-width: 400px; width: 120px; margin-right: 20px;" align="left">
-  <div style="text-align: center; flex-grow: 1;">
-    <i>To break the ice, some random dev joke for you!</i><br>
-    <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-  </div>
+<br>
+
+<!-- Início da seção "Finalização" -->
+<div align="center">
+  <p>Feito com :heart: por <b>mim</b>.</p>
 </div>
+<!-- Fim da seção "Finalização" -->
